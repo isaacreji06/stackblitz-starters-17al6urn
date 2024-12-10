@@ -54,8 +54,7 @@ Write a JavaScript script to retrieve and use these variables with the **dotenv*
 Here’s an example:
 
 ```javascript
-// Load the dotenv package
-require('dotenv').config();
+// Load the dotenv package;
 
 // Access environment variables
 const config = {
